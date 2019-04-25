@@ -1,0 +1,22 @@
+
+#container {
+    display: flex;
+    background-color: white;
+    justify-content: space-around;
+    align-items: center;
+    flex-flow: row;
+    flex-wrap: wrap;
+    width: 750px;
+    height: 750px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+.center {
+    display: flex;    
+    justify-content: space-around;
+    align-items: center;
+    flex-flow: row;
+    flex-wrap: wrap;
+    padding: 20px;
+}

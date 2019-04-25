@@ -1,0 +1,35 @@
+.square {
+    background: white;
+    border: 1px solid black;
+}
+
+#container {
+    display: flex;
+    background-color: white;
+    justify-content: space-around;
+    align-items: center;
+    flex-flow: row;
+    flex-wrap: wrap;
+    width: 750px;
+    height: 750px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+body {
+    font-family: 'Slabo 27px', serif;
+    font-size: 50px;
+    padding: 50px;
+    background-color: cornflowerblue;
+}
+
+.center {
+    padding: 10px;
+    text-align: center;
+}
+
+.button {
+    font-family: 'Slabo 27px', serif;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
