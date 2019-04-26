@@ -1,4 +1,7 @@
 #Etch-A-Sketch
+
+Click [here](https://bmyles10.github.io/Etch-A-Sketch/) to open the app.
+
 1. [Follow the instructions atop Odin’s Google Homepage project](https://www.theodinproject.com/courses/web-development-101/lessons/html-css) to setup a git repository for this project.
 
 2. Create a webpage with a 16x16 grid of square divs 
